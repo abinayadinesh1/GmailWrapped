@@ -5,4 +5,6 @@ In the same fashion as Spotify Wrapped, we'll display visualizations that give y
 
 It'll show you what kinds of emails got the highest and fastest response rates and compare that across features like the time of email sent, day of week, holiday/weekend vs weekday, and character length. Sentiment analysis is used to figure out 1) what type of writing style has the highest success and 2) figure out which emails were 'successful' (aka responder was enthusiastic, fulfilled your request, wants to give you the job). 
 
+Specifically, using Bayesian Inference to find the optimal time, style, length, and type of email to send for the highest success on your next cold request. 
+
 More coming soon!
